@@ -1,16 +1,34 @@
-# assignment2
+## Overview
 
-A new Flutter project.
+Device Detective is a Flutter application.
 
-## Getting Started
+The app uses the device camera and Google ML Kit Image Labeling to identify captured objects and reward users for successful detections.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* Camera Integration
+* Image Capture
+* Object Label Detection
+* Reward System (Stars)
+* Progress Tracking
+* Completion Badge
+* Refresh / Restart Option
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter
+* Dart
+* Image Picker
+* Google ML Kit Image Labeling
+
+## Demo Video
+
+Google Drive Link:
+(https://drive.google.com/file/d/1FYGN2pc9xN42y3tbIqovxUaPFVy8VwaA/view?usp=drive_link)
+
+## How to Run
+
+1. Clone the repository
+2. Run flutter pub get
+3. Connect an Android device or emulator
+4. Run flutter run
